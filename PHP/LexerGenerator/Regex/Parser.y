@@ -1,7 +1,4 @@
 %name PHP_LexerGenerator_Regex_
-%include {
-require_once 'PHP/LexerGenerator/Exception.php';
-}
 %declare_class {class PHP_LexerGenerator_Regex_Parser}
 %syntax_error {
 /* ?><?php */

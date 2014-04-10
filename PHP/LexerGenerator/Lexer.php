@@ -21,7 +21,7 @@
  * @version    CVS: $Id$
  * @since      File available since Release 0.1.0
  */
-require_once 'PHP/LexerGenerator/Parser.php';
+
 /**
  * Token scanner for plex files.
  *

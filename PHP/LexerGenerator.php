@@ -46,15 +46,6 @@
  * @since      File available since Release 0.1.0
  */
 /**
- * The Lexer generation parser
- */
-require_once 'PHP/LexerGenerator/Parser.php';
-/**
- * Hand-written lexer for lex2php format files
- */
-require_once 'PHP/LexerGenerator/Lexer.php';
-
-/**
  * The basic home class for the lexer generator.  A lexer scans text and
  * organizes it into tokens for usage by a parser.
  *

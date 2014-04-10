@@ -144,12 +144,6 @@ class PHP_LexerGenerator_ParseryyStackEntry
  * @since      File available since Release 0.1.0
  */
 /**
- * For regular expression validation
- */
-require_once 'PHP/LexerGenerator/Regex/Lexer.php';
-require_once 'PHP/LexerGenerator/Regex/Parser.php';
-require_once 'PHP/LexerGenerator/Exception.php';
-/**
  * Token parser for plex files.
  *
  * This parser converts tokens pulled from {@link PHP_LexerGenerator_Lexer}

@@ -1,5 +1,4 @@
 <?php
-require_once 'PHP/LexerGenerator/Regex/Parser.php';
 class PHP_LexerGenerator_Regex_Lexer
 {
     const MATCHSTART = PHP_LexerGenerator_Regex_Parser::MATCHSTART;

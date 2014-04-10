@@ -96,7 +96,6 @@ class PHP_LexerGenerator_Regex_yyStackEntry
 // code external to the class is included here
 #line 2 "Parser.y"
 
-require_once 'PHP/LexerGenerator/Exception.php';
 #line 102 "Parser.php"
 
 // declare_class is output here
