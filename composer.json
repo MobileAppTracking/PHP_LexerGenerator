@@ -1,0 +1,35 @@
+{
+    "name": "MobileAppTracking/php_lexergenerator",
+    "description": "Translates files in a re2c-like format into a PHP 5 lexer",
+    "type": "library",
+    "keywords": ["lexer", "lemon"],
+    "homepage": "https://github.com/MobileAppTracking/PHP_LexerGenerator",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Greg Beaver",
+            "email": "cellog@php.net",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/MobileAppTracking/PHP_LexerGenerator/issues",
+        "source": "https://github.com/MobileAppTracking/PHP_LexerGenerator"
+    },
+    "require": {
+        "php": ">=5.1.0"
+    },
+    "provide": {
+        "MobileAppTracking/php_lexergenerator": "0.4.0",
+    },
+    "autoload": {
+        "psr-0": {
+            "PHP": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
